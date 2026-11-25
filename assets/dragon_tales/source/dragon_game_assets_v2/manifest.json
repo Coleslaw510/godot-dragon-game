@@ -1,0 +1,131 @@
+{
+  "project": "Dragon Sanctuary Offline iOS Game",
+  "facing_direction": "right (flip horizontally in SpriteKit via xScale = -abs(xScale) for left movement)",
+  "dragons": {
+    "layout": "4 rows x 6 columns (24 frames per sheet)",
+    "rows": [
+      "idle",
+      "walk",
+      "fly",
+      "action"
+    ],
+    "sheets": [
+      {
+        "id": "blaze",
+        "element": "Fire",
+        "file": "dragons/blaze_sheet.png",
+        "action_name": "breathing_fire"
+      },
+      {
+        "id": "tide",
+        "element": "Water",
+        "file": "dragons/tide_sheet.png",
+        "action_name": "shooting_water"
+      },
+      {
+        "id": "pebble",
+        "element": "Earth",
+        "file": "dragons/pebble_sheet.png",
+        "action_name": "rock_slam"
+      },
+      {
+        "id": "breeze",
+        "element": "Air",
+        "file": "dragons/breeze_sheet.png",
+        "action_name": "wind_gust"
+      },
+      {
+        "id": "spark",
+        "element": "Lightning",
+        "file": "dragons/spark_sheet.png",
+        "action_name": "lightning_bolt"
+      },
+      {
+        "id": "fern",
+        "element": "Plant",
+        "file": "dragons/fern_sheet.png",
+        "action_name": "leaf_vine_blast"
+      },
+      {
+        "id": "frost",
+        "element": "Ice",
+        "file": "dragons/frost_sheet.png",
+        "action_name": "ice_breath"
+      },
+      {
+        "id": "gleam",
+        "element": "Light",
+        "file": "dragons/gleam_sheet.png",
+        "action_name": "light_beam"
+      },
+      {
+        "id": "rivet",
+        "element": "Metal",
+        "file": "dragons/rivet_sheet.png",
+        "action_name": "metal_blast"
+      },
+      {
+        "id": "twinkle",
+        "element": "Star",
+        "file": "dragons/twinkle_sheet.png",
+        "action_name": "star_blast"
+      }
+    ]
+  },
+  "world": {
+    "starter_island": {
+      "file": "world/starter_island_sheet.png",
+      "layout": "2 rows x 3 columns (6 sequential animation frames)"
+    },
+    "habitats": [
+      {
+        "file": "world/habitats_sheet_1.png",
+        "layout": "2 rows x 2 columns (4 enclosures)",
+        "elements": [
+          "lightning",
+          "light",
+          "metal",
+          "star"
+        ]
+      },
+      {
+        "file": "world/habitats_sheet_2.png",
+        "layout": "2 rows x 3 columns (6 enclosures)",
+        "elements": [
+          "fire",
+          "water",
+          "earth",
+          "air",
+          "plant",
+          "ice"
+        ]
+      }
+    ],
+    "buildings_and_eggs": {
+      "file": "world/buildings_and_eggs_sheet.png",
+      "eggs_section": {
+        "layout": "2 rows x 5 columns (10 base element eggs)",
+        "elements": [
+          "fire",
+          "water",
+          "earth",
+          "air",
+          "lightning",
+          "plant",
+          "ice",
+          "light",
+          "metal",
+          "star"
+        ]
+      },
+      "buildings_section": {
+        "layout": "1 row x 3 columns",
+        "buildings": [
+          "hatchery",
+          "food_farm",
+          "breeding_corral"
+        ]
+      }
+    }
+  }
+}

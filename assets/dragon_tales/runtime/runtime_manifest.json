@@ -1,0 +1,413 @@
+{
+  "dragons": {
+    "blaze": {
+      "element": "fire",
+      "animations": {
+        "idle": [
+          "assets/dragon_tales/runtime/dragons/blaze/idle_00.png",
+          "assets/dragon_tales/runtime/dragons/blaze/idle_01.png",
+          "assets/dragon_tales/runtime/dragons/blaze/idle_02.png",
+          "assets/dragon_tales/runtime/dragons/blaze/idle_03.png",
+          "assets/dragon_tales/runtime/dragons/blaze/idle_04.png",
+          "assets/dragon_tales/runtime/dragons/blaze/idle_05.png"
+        ],
+        "walk": [
+          "assets/dragon_tales/runtime/dragons/blaze/walk_00.png",
+          "assets/dragon_tales/runtime/dragons/blaze/walk_01.png",
+          "assets/dragon_tales/runtime/dragons/blaze/walk_02.png",
+          "assets/dragon_tales/runtime/dragons/blaze/walk_03.png",
+          "assets/dragon_tales/runtime/dragons/blaze/walk_04.png",
+          "assets/dragon_tales/runtime/dragons/blaze/walk_05.png"
+        ],
+        "fly": [
+          "assets/dragon_tales/runtime/dragons/blaze/fly_00.png",
+          "assets/dragon_tales/runtime/dragons/blaze/fly_01.png",
+          "assets/dragon_tales/runtime/dragons/blaze/fly_02.png",
+          "assets/dragon_tales/runtime/dragons/blaze/fly_03.png",
+          "assets/dragon_tales/runtime/dragons/blaze/fly_04.png",
+          "assets/dragon_tales/runtime/dragons/blaze/fly_05.png"
+        ],
+        "action": [
+          "assets/dragon_tales/runtime/dragons/blaze/action_00.png",
+          "assets/dragon_tales/runtime/dragons/blaze/action_01.png",
+          "assets/dragon_tales/runtime/dragons/blaze/action_02.png",
+          "assets/dragon_tales/runtime/dragons/blaze/action_03.png",
+          "assets/dragon_tales/runtime/dragons/blaze/action_04.png",
+          "assets/dragon_tales/runtime/dragons/blaze/action_05.png"
+        ]
+      }
+    },
+    "tide": {
+      "element": "water",
+      "animations": {
+        "idle": [
+          "assets/dragon_tales/runtime/dragons/tide/idle_00.png",
+          "assets/dragon_tales/runtime/dragons/tide/idle_01.png",
+          "assets/dragon_tales/runtime/dragons/tide/idle_02.png",
+          "assets/dragon_tales/runtime/dragons/tide/idle_03.png",
+          "assets/dragon_tales/runtime/dragons/tide/idle_04.png",
+          "assets/dragon_tales/runtime/dragons/tide/idle_05.png"
+        ],
+        "walk": [
+          "assets/dragon_tales/runtime/dragons/tide/walk_00.png",
+          "assets/dragon_tales/runtime/dragons/tide/walk_01.png",
+          "assets/dragon_tales/runtime/dragons/tide/walk_02.png",
+          "assets/dragon_tales/runtime/dragons/tide/walk_03.png",
+          "assets/dragon_tales/runtime/dragons/tide/walk_04.png",
+          "assets/dragon_tales/runtime/dragons/tide/walk_05.png"
+        ],
+        "fly": [
+          "assets/dragon_tales/runtime/dragons/tide/fly_00.png",
+          "assets/dragon_tales/runtime/dragons/tide/fly_01.png",
+          "assets/dragon_tales/runtime/dragons/tide/fly_02.png",
+          "assets/dragon_tales/runtime/dragons/tide/fly_03.png",
+          "assets/dragon_tales/runtime/dragons/tide/fly_04.png",
+          "assets/dragon_tales/runtime/dragons/tide/fly_05.png"
+        ],
+        "action": [
+          "assets/dragon_tales/runtime/dragons/tide/action_00.png",
+          "assets/dragon_tales/runtime/dragons/tide/action_01.png",
+          "assets/dragon_tales/runtime/dragons/tide/action_02.png",
+          "assets/dragon_tales/runtime/dragons/tide/action_03.png",
+          "assets/dragon_tales/runtime/dragons/tide/action_04.png",
+          "assets/dragon_tales/runtime/dragons/tide/action_05.png"
+        ]
+      }
+    },
+    "pebble": {
+      "element": "earth",
+      "animations": {
+        "idle": [
+          "assets/dragon_tales/runtime/dragons/pebble/idle_00.png",
+          "assets/dragon_tales/runtime/dragons/pebble/idle_01.png",
+          "assets/dragon_tales/runtime/dragons/pebble/idle_02.png",
+          "assets/dragon_tales/runtime/dragons/pebble/idle_03.png",
+          "assets/dragon_tales/runtime/dragons/pebble/idle_04.png",
+          "assets/dragon_tales/runtime/dragons/pebble/idle_05.png"
+        ],
+        "walk": [
+          "assets/dragon_tales/runtime/dragons/pebble/walk_00.png",
+          "assets/dragon_tales/runtime/dragons/pebble/walk_01.png",
+          "assets/dragon_tales/runtime/dragons/pebble/walk_02.png",
+          "assets/dragon_tales/runtime/dragons/pebble/walk_03.png",
+          "assets/dragon_tales/runtime/dragons/pebble/walk_04.png",
+          "assets/dragon_tales/runtime/dragons/pebble/walk_05.png"
+        ],
+        "fly": [
+          "assets/dragon_tales/runtime/dragons/pebble/fly_00.png",
+          "assets/dragon_tales/runtime/dragons/pebble/fly_01.png",
+          "assets/dragon_tales/runtime/dragons/pebble/fly_02.png",
+          "assets/dragon_tales/runtime/dragons/pebble/fly_03.png",
+          "assets/dragon_tales/runtime/dragons/pebble/fly_04.png",
+          "assets/dragon_tales/runtime/dragons/pebble/fly_05.png"
+        ],
+        "action": [
+          "assets/dragon_tales/runtime/dragons/pebble/action_00.png",
+          "assets/dragon_tales/runtime/dragons/pebble/action_01.png",
+          "assets/dragon_tales/runtime/dragons/pebble/action_02.png",
+          "assets/dragon_tales/runtime/dragons/pebble/action_03.png",
+          "assets/dragon_tales/runtime/dragons/pebble/action_04.png",
+          "assets/dragon_tales/runtime/dragons/pebble/action_05.png"
+        ]
+      }
+    },
+    "breeze": {
+      "element": "air",
+      "animations": {
+        "idle": [
+          "assets/dragon_tales/runtime/dragons/breeze/idle_00.png",
+          "assets/dragon_tales/runtime/dragons/breeze/idle_01.png",
+          "assets/dragon_tales/runtime/dragons/breeze/idle_02.png",
+          "assets/dragon_tales/runtime/dragons/breeze/idle_03.png",
+          "assets/dragon_tales/runtime/dragons/breeze/idle_04.png",
+          "assets/dragon_tales/runtime/dragons/breeze/idle_05.png"
+        ],
+        "walk": [
+          "assets/dragon_tales/runtime/dragons/breeze/walk_00.png",
+          "assets/dragon_tales/runtime/dragons/breeze/walk_01.png",
+          "assets/dragon_tales/runtime/dragons/breeze/walk_02.png",
+          "assets/dragon_tales/runtime/dragons/breeze/walk_03.png",
+          "assets/dragon_tales/runtime/dragons/breeze/walk_04.png",
+          "assets/dragon_tales/runtime/dragons/breeze/walk_05.png"
+        ],
+        "fly": [
+          "assets/dragon_tales/runtime/dragons/breeze/fly_00.png",
+          "assets/dragon_tales/runtime/dragons/breeze/fly_01.png",
+          "assets/dragon_tales/runtime/dragons/breeze/fly_02.png",
+          "assets/dragon_tales/runtime/dragons/breeze/fly_03.png",
+          "assets/dragon_tales/runtime/dragons/breeze/fly_04.png",
+          "assets/dragon_tales/runtime/dragons/breeze/fly_05.png"
+        ],
+        "action": [
+          "assets/dragon_tales/runtime/dragons/breeze/action_00.png",
+          "assets/dragon_tales/runtime/dragons/breeze/action_01.png",
+          "assets/dragon_tales/runtime/dragons/breeze/action_02.png",
+          "assets/dragon_tales/runtime/dragons/breeze/action_03.png",
+          "assets/dragon_tales/runtime/dragons/breeze/action_04.png",
+          "assets/dragon_tales/runtime/dragons/breeze/action_05.png"
+        ]
+      }
+    },
+    "spark": {
+      "element": "lightning",
+      "animations": {
+        "idle": [
+          "assets/dragon_tales/runtime/dragons/spark/idle_00.png",
+          "assets/dragon_tales/runtime/dragons/spark/idle_01.png",
+          "assets/dragon_tales/runtime/dragons/spark/idle_02.png",
+          "assets/dragon_tales/runtime/dragons/spark/idle_03.png",
+          "assets/dragon_tales/runtime/dragons/spark/idle_04.png",
+          "assets/dragon_tales/runtime/dragons/spark/idle_05.png"
+        ],
+        "walk": [
+          "assets/dragon_tales/runtime/dragons/spark/walk_00.png",
+          "assets/dragon_tales/runtime/dragons/spark/walk_01.png",
+          "assets/dragon_tales/runtime/dragons/spark/walk_02.png",
+          "assets/dragon_tales/runtime/dragons/spark/walk_03.png",
+          "assets/dragon_tales/runtime/dragons/spark/walk_04.png",
+          "assets/dragon_tales/runtime/dragons/spark/walk_05.png"
+        ],
+        "fly": [
+          "assets/dragon_tales/runtime/dragons/spark/fly_00.png",
+          "assets/dragon_tales/runtime/dragons/spark/fly_01.png",
+          "assets/dragon_tales/runtime/dragons/spark/fly_02.png",
+          "assets/dragon_tales/runtime/dragons/spark/fly_03.png",
+          "assets/dragon_tales/runtime/dragons/spark/fly_04.png",
+          "assets/dragon_tales/runtime/dragons/spark/fly_05.png"
+        ],
+        "action": [
+          "assets/dragon_tales/runtime/dragons/spark/action_00.png",
+          "assets/dragon_tales/runtime/dragons/spark/action_01.png",
+          "assets/dragon_tales/runtime/dragons/spark/action_02.png",
+          "assets/dragon_tales/runtime/dragons/spark/action_03.png",
+          "assets/dragon_tales/runtime/dragons/spark/action_04.png",
+          "assets/dragon_tales/runtime/dragons/spark/action_05.png"
+        ]
+      }
+    },
+    "fern": {
+      "element": "plant",
+      "animations": {
+        "idle": [
+          "assets/dragon_tales/runtime/dragons/fern/idle_00.png",
+          "assets/dragon_tales/runtime/dragons/fern/idle_01.png",
+          "assets/dragon_tales/runtime/dragons/fern/idle_02.png",
+          "assets/dragon_tales/runtime/dragons/fern/idle_03.png",
+          "assets/dragon_tales/runtime/dragons/fern/idle_04.png",
+          "assets/dragon_tales/runtime/dragons/fern/idle_05.png"
+        ],
+        "walk": [
+          "assets/dragon_tales/runtime/dragons/fern/walk_00.png",
+          "assets/dragon_tales/runtime/dragons/fern/walk_01.png",
+          "assets/dragon_tales/runtime/dragons/fern/walk_02.png",
+          "assets/dragon_tales/runtime/dragons/fern/walk_03.png",
+          "assets/dragon_tales/runtime/dragons/fern/walk_04.png",
+          "assets/dragon_tales/runtime/dragons/fern/walk_05.png"
+        ],
+        "fly": [
+          "assets/dragon_tales/runtime/dragons/fern/fly_00.png",
+          "assets/dragon_tales/runtime/dragons/fern/fly_01.png",
+          "assets/dragon_tales/runtime/dragons/fern/fly_02.png",
+          "assets/dragon_tales/runtime/dragons/fern/fly_03.png",
+          "assets/dragon_tales/runtime/dragons/fern/fly_04.png",
+          "assets/dragon_tales/runtime/dragons/fern/fly_05.png"
+        ],
+        "action": [
+          "assets/dragon_tales/runtime/dragons/fern/action_00.png",
+          "assets/dragon_tales/runtime/dragons/fern/action_01.png",
+          "assets/dragon_tales/runtime/dragons/fern/action_02.png",
+          "assets/dragon_tales/runtime/dragons/fern/action_03.png",
+          "assets/dragon_tales/runtime/dragons/fern/action_04.png",
+          "assets/dragon_tales/runtime/dragons/fern/action_05.png"
+        ]
+      }
+    },
+    "frost": {
+      "element": "ice",
+      "animations": {
+        "idle": [
+          "assets/dragon_tales/runtime/dragons/frost/idle_00.png",
+          "assets/dragon_tales/runtime/dragons/frost/idle_01.png",
+          "assets/dragon_tales/runtime/dragons/frost/idle_02.png",
+          "assets/dragon_tales/runtime/dragons/frost/idle_03.png",
+          "assets/dragon_tales/runtime/dragons/frost/idle_04.png",
+          "assets/dragon_tales/runtime/dragons/frost/idle_05.png"
+        ],
+        "walk": [
+          "assets/dragon_tales/runtime/dragons/frost/walk_00.png",
+          "assets/dragon_tales/runtime/dragons/frost/walk_01.png",
+          "assets/dragon_tales/runtime/dragons/frost/walk_02.png",
+          "assets/dragon_tales/runtime/dragons/frost/walk_03.png",
+          "assets/dragon_tales/runtime/dragons/frost/walk_04.png",
+          "assets/dragon_tales/runtime/dragons/frost/walk_05.png"
+        ],
+        "fly": [
+          "assets/dragon_tales/runtime/dragons/frost/fly_00.png",
+          "assets/dragon_tales/runtime/dragons/frost/fly_01.png",
+          "assets/dragon_tales/runtime/dragons/frost/fly_02.png",
+          "assets/dragon_tales/runtime/dragons/frost/fly_03.png",
+          "assets/dragon_tales/runtime/dragons/frost/fly_04.png",
+          "assets/dragon_tales/runtime/dragons/frost/fly_05.png"
+        ],
+        "action": [
+          "assets/dragon_tales/runtime/dragons/frost/action_00.png",
+          "assets/dragon_tales/runtime/dragons/frost/action_01.png",
+          "assets/dragon_tales/runtime/dragons/frost/action_02.png",
+          "assets/dragon_tales/runtime/dragons/frost/action_03.png",
+          "assets/dragon_tales/runtime/dragons/frost/action_04.png",
+          "assets/dragon_tales/runtime/dragons/frost/action_05.png"
+        ]
+      }
+    },
+    "gleam": {
+      "element": "light",
+      "animations": {
+        "idle": [
+          "assets/dragon_tales/runtime/dragons/gleam/idle_00.png",
+          "assets/dragon_tales/runtime/dragons/gleam/idle_01.png",
+          "assets/dragon_tales/runtime/dragons/gleam/idle_02.png",
+          "assets/dragon_tales/runtime/dragons/gleam/idle_03.png",
+          "assets/dragon_tales/runtime/dragons/gleam/idle_04.png",
+          "assets/dragon_tales/runtime/dragons/gleam/idle_05.png"
+        ],
+        "walk": [
+          "assets/dragon_tales/runtime/dragons/gleam/walk_00.png",
+          "assets/dragon_tales/runtime/dragons/gleam/walk_01.png",
+          "assets/dragon_tales/runtime/dragons/gleam/walk_02.png",
+          "assets/dragon_tales/runtime/dragons/gleam/walk_03.png",
+          "assets/dragon_tales/runtime/dragons/gleam/walk_04.png",
+          "assets/dragon_tales/runtime/dragons/gleam/walk_05.png"
+        ],
+        "fly": [
+          "assets/dragon_tales/runtime/dragons/gleam/fly_00.png",
+          "assets/dragon_tales/runtime/dragons/gleam/fly_01.png",
+          "assets/dragon_tales/runtime/dragons/gleam/fly_02.png",
+          "assets/dragon_tales/runtime/dragons/gleam/fly_03.png",
+          "assets/dragon_tales/runtime/dragons/gleam/fly_04.png",
+          "assets/dragon_tales/runtime/dragons/gleam/fly_05.png"
+        ],
+        "action": [
+          "assets/dragon_tales/runtime/dragons/gleam/action_00.png",
+          "assets/dragon_tales/runtime/dragons/gleam/action_01.png",
+          "assets/dragon_tales/runtime/dragons/gleam/action_02.png",
+          "assets/dragon_tales/runtime/dragons/gleam/action_03.png",
+          "assets/dragon_tales/runtime/dragons/gleam/action_04.png",
+          "assets/dragon_tales/runtime/dragons/gleam/action_05.png"
+        ]
+      }
+    },
+    "rivet": {
+      "element": "metal",
+      "animations": {
+        "idle": [
+          "assets/dragon_tales/runtime/dragons/rivet/idle_00.png",
+          "assets/dragon_tales/runtime/dragons/rivet/idle_01.png",
+          "assets/dragon_tales/runtime/dragons/rivet/idle_02.png",
+          "assets/dragon_tales/runtime/dragons/rivet/idle_03.png",
+          "assets/dragon_tales/runtime/dragons/rivet/idle_04.png",
+          "assets/dragon_tales/runtime/dragons/rivet/idle_05.png"
+        ],
+        "walk": [
+          "assets/dragon_tales/runtime/dragons/rivet/walk_00.png",
+          "assets/dragon_tales/runtime/dragons/rivet/walk_01.png",
+          "assets/dragon_tales/runtime/dragons/rivet/walk_02.png",
+          "assets/dragon_tales/runtime/dragons/rivet/walk_03.png",
+          "assets/dragon_tales/runtime/dragons/rivet/walk_04.png",
+          "assets/dragon_tales/runtime/dragons/rivet/walk_05.png"
+        ],
+        "fly": [
+          "assets/dragon_tales/runtime/dragons/rivet/fly_00.png",
+          "assets/dragon_tales/runtime/dragons/rivet/fly_01.png",
+          "assets/dragon_tales/runtime/dragons/rivet/fly_02.png",
+          "assets/dragon_tales/runtime/dragons/rivet/fly_03.png",
+          "assets/dragon_tales/runtime/dragons/rivet/fly_04.png",
+          "assets/dragon_tales/runtime/dragons/rivet/fly_05.png"
+        ],
+        "action": [
+          "assets/dragon_tales/runtime/dragons/rivet/action_00.png",
+          "assets/dragon_tales/runtime/dragons/rivet/action_01.png",
+          "assets/dragon_tales/runtime/dragons/rivet/action_02.png",
+          "assets/dragon_tales/runtime/dragons/rivet/action_03.png",
+          "assets/dragon_tales/runtime/dragons/rivet/action_04.png",
+          "assets/dragon_tales/runtime/dragons/rivet/action_05.png"
+        ]
+      }
+    },
+    "twinkle": {
+      "element": "star",
+      "animations": {
+        "idle": [
+          "assets/dragon_tales/runtime/dragons/twinkle/idle_00.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/idle_01.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/idle_02.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/idle_03.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/idle_04.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/idle_05.png"
+        ],
+        "walk": [
+          "assets/dragon_tales/runtime/dragons/twinkle/walk_00.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/walk_01.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/walk_02.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/walk_03.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/walk_04.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/walk_05.png"
+        ],
+        "fly": [
+          "assets/dragon_tales/runtime/dragons/twinkle/fly_00.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/fly_01.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/fly_02.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/fly_03.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/fly_04.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/fly_05.png"
+        ],
+        "action": [
+          "assets/dragon_tales/runtime/dragons/twinkle/action_00.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/action_01.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/action_02.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/action_03.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/action_04.png",
+          "assets/dragon_tales/runtime/dragons/twinkle/action_05.png"
+        ]
+      }
+    }
+  },
+  "world": {
+    "island": [
+      "assets/dragon_tales/runtime/island/frame_00.png",
+      "assets/dragon_tales/runtime/island/frame_01.png",
+      "assets/dragon_tales/runtime/island/frame_02.png",
+      "assets/dragon_tales/runtime/island/frame_03.png",
+      "assets/dragon_tales/runtime/island/frame_04.png",
+      "assets/dragon_tales/runtime/island/frame_05.png"
+    ],
+    "habitats": {
+      "lightning": "assets/dragon_tales/runtime/habitats/lightning.png",
+      "light": "assets/dragon_tales/runtime/habitats/light.png",
+      "metal": "assets/dragon_tales/runtime/habitats/metal.png",
+      "star": "assets/dragon_tales/runtime/habitats/star.png",
+      "fire": "assets/dragon_tales/runtime/habitats/fire.png",
+      "water": "assets/dragon_tales/runtime/habitats/water.png",
+      "earth": "assets/dragon_tales/runtime/habitats/earth.png",
+      "air": "assets/dragon_tales/runtime/habitats/air.png",
+      "plant": "assets/dragon_tales/runtime/habitats/plant.png",
+      "ice": "assets/dragon_tales/runtime/habitats/ice.png"
+    },
+    "eggs": {
+      "fire": "assets/dragon_tales/runtime/eggs/fire.png",
+      "water": "assets/dragon_tales/runtime/eggs/water.png",
+      "earth": "assets/dragon_tales/runtime/eggs/earth.png",
+      "air": "assets/dragon_tales/runtime/eggs/air.png",
+      "lightning": "assets/dragon_tales/runtime/eggs/lightning.png",
+      "plant": "assets/dragon_tales/runtime/eggs/plant.png",
+      "ice": "assets/dragon_tales/runtime/eggs/ice.png",
+      "light": "assets/dragon_tales/runtime/eggs/light.png",
+      "metal": "assets/dragon_tales/runtime/eggs/metal.png",
+      "star": "assets/dragon_tales/runtime/eggs/star.png"
+    },
+    "buildings": {
+      "hatchery": "assets/dragon_tales/runtime/buildings/hatchery.png",
+      "food_farm": "assets/dragon_tales/runtime/buildings/food_farm.png",
+      "breeding_corral": "assets/dragon_tales/runtime/buildings/breeding_corral.png"
+    }
+  }
+}
