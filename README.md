@@ -1,3 +1,11 @@
+# Dragon Tales
+
+Dragon Tales is a calm, landscape-oriented 2D dragon breeding and collection game built with Godot 4.7.2. The first incomplete but playable prototype focuses on a starter island, ten supplied base-element dragons, food growing, breeding, hatching, collection, achievements, and a compact battle prototype.
+
+The project is offline-first. Accounts, friend-island visits, and coin gifts are deliberately deferred to a later milestone. The supplied source sheets are preserved under `assets/dragon_tales/source/`, while deterministic transparent runtime crops are stored under `assets/dragon_tales/runtime/`. No generated replacement art is used.
+
+See [plan.md](plan.md) and [TODO.md](TODO.md) for the approved direction and remaining work.
+
 # Generic Game Template
 
 This versioned source is owned by the Webdev Addon. Use the installed Game workflow for initialization, preview, release and publishing. Matching gameplay source: template-provenance.json. Existing projects are never overwritten by a new starter.
